@@ -28,7 +28,7 @@ export const STORY = {
       text: "\"My name is Steph,\" the man said with a shy smile. \"I play basketball for the Golden State Warriors. I got separated from my team. I need to get back to the Bellagio Hotel tonight — we fly to San Francisco early tomorrow for a game.\"",
       narration: "My name is Steph, the man said with a shy smile. I play basketball for the Golden State Warriors. I got separated from my team. I need to get back to the Bellagio Hotel tonight. We fly to San Francisco early tomorrow for a game.",
       caption: "Steph explains who he is",
-      scene: "Vintage Family Circus comic style, black ink line art with soft watercolor wash. A tall friendly basketball player named Steph in a blue hoodie kneels down to talk to a young 10-year-old Chinese American boy on a Las Vegas sidewalk at night. Steph has a warm smile, short hair, athletic build. Parents watch in the background with surprised happy faces. Neon glow. Soft, wholesome, storybook cartoon style, round shapes, gentle expressions, hand-drawn feel.",
+      scene: "Vintage Family Circus comic style, black ink line art with soft watercolor wash. A tall friendly basketball player in a blue hoodie and shorts kneels on one knee on a Las Vegas sidewalk at night, facing a young 10-year-old Chinese American boy with short black hair. The player has a visible face with kind eyes, warm smile, short dark hair, light brown skin, athletic build, full body visible from head to sneakers. The boy looks up with curiosity. Parents stand behind the boy with surprised happy faces. Neon signs glow in the background. Soft, wholesome, storybook cartoon style, round simple shapes, gentle expressions, hand-drawn feel.",
     },
     {
       page: 4,
@@ -44,7 +44,7 @@ export const STORY = {
       text: "\"Walk north on Las Vegas Boulevard,\" Sean said, pointing. \"Pass the big lion statue. Then you'll see the beautiful fountains. The Bellagio is right there on your left, about a ten-minute walk!\" Steph's eyes lit up.",
       narration: "Walk north on Las Vegas Boulevard, Sean said, pointing. Pass the big lion statue. Then you'll see the beautiful fountains. The Bellagio is right there on your left, about a ten-minute walk! Steph's eyes lit up.",
       caption: "Sean points the way to the Bellagio",
-      scene: "Vintage Family Circus comic style, black ink line art with soft watercolor wash. A 10-year-old Chinese American boy with short black hair stands confidently pointing down a Las Vegas sidewalk at night, showing the way to a tall basketball player in a blue hoodie. Behind them, a small dotted comic-style path line winds past a lion statue, fountains, and a grand hotel labeled Bellagio. Neon glow, warm wholesome storybook cartoon, round shapes, hand-drawn feel.",
+      scene: "Vintage Family Circus comic style, black ink line art with soft watercolor wash. A 10-year-old Chinese American boy with short black hair stands confidently pointing down a Las Vegas sidewalk at night, showing the way to a tall basketball player in a blue hoodie and shorts. The player is a tall Black man with a visible face, kind smile, short dark hair, light brown skin, full body visible from head to sneakers, listening attentively. Behind them, a dotted comic-style path winds past a lion statue, fountains, and a grand hotel labeled Bellagio. Neon glow, warm wholesome storybook cartoon, round shapes, hand-drawn feel.",
     },
     {
       page: 6,
@@ -57,10 +57,10 @@ export const STORY = {
     {
       page: 7,
       title: "The Next Night — The Game",
-      text: "The next night, Sean watched TV at home in San Francisco. Steph was playing! The score was tied. Three seconds left. The crowd went quiet. Steph caught the ball, spun around, and — SWISH! A three-pointer at the buzzer! The Warriors won!",
-      narration: "The next night, Sean watched TV at home in San Francisco. Steph was playing! The score was tied. Three seconds left. The crowd went quiet. Steph caught the ball, spun around, and swish! A three-pointer at the buzzer! The Warriors won!",
+      text: "The next night, Sean watched TV at home in Las Vegas. Steph was playing! The score was tied. Three seconds left. The crowd went quiet. Steph caught the ball, spun around, and — SWISH! A three-pointer at the buzzer! The Warriors won!",
+      narration: "The next night, Sean watched TV at home in Las Vegas. Steph was playing! The score was tied. Three seconds left. The crowd went quiet. Steph caught the ball, spun around, and swish! A three-pointer at the buzzer! The Warriors won!",
       caption: "Steph's buzzer-beater three-pointer!",
-      scene: "Vintage Family Circus comic style, black ink line art with soft watercolor wash. A bright basketball arena. A basketball player in a blue and gold jersey jumps up to shoot a basketball at the buzzer. The ball arcs through the air toward the hoop. The crowd in the stands cheers. Big letters SWISH float in the air. Bright, joyful, action-packed storybook cartoon, round shapes, hand-drawn line art, soft watercolor wash.",
+      scene: "Vintage Family Circus comic style, black ink line art with soft watercolor wash. A cozy living room in Las Vegas at night. A 10-year-old Chinese American boy with short black hair sits on a couch with his mom and dad, watching a big TV. On the TV screen, a basketball player in a blue and gold jersey shoots a three-pointer at the buzzer, ball arcing toward the hoop with SWISH letters floating. The family cheers with excitement. Wholesome, warm, storybook cartoon, round shapes, hand-drawn line art, soft watercolor wash.",
     },
     {
       page: 8,
@@ -68,7 +68,7 @@ export const STORY = {
       text: "After the game, a reporter asked Steph about his amazing shot. Steph smiled into the camera. \"Shoutout to a kid named Sean in Las Vegas,\" he said. \"His perfect directions saved my night. I made it back in time — and this shot was for him!\" At home, Sean cheered.",
       narration: "After the game, a reporter asked Steph about his amazing shot. Steph smiled into the camera. Shoutout to a kid named Sean in Las Vegas, he said. His perfect directions saved my night. I made it back in time, and this shot was for him! At home, Sean cheered.",
       caption: "Steph gives Sean a shoutout on TV",
-      scene: "Vintage Family Circus comic style, black ink line art with soft watercolor wash. A basketball player in a blue and gold jersey speaks into a TV news camera with a big warm smile, holding a microphone. On a small TV screen in a cozy living room, the same player is shown. A 10-year-old Chinese American boy and his mom and dad sit on a couch watching, the boy jumping with joy and cheering. Wholesome, warm, storybook cartoon, round shapes, hand-drawn line art, soft watercolor wash.",
+      scene: "Vintage Family Circus comic style, black ink line art with soft watercolor wash. A cozy living room in Las Vegas at night. A 10-year-old Chinese American boy with short black hair, his mom and dad sit on a couch watching a big flat-screen TV. On the TV screen, a friendly basketball player in a blue and gold jersey smiles warmly and speaks into a reporter's microphone, giving a shoutout. The boy on the couch jumps up with joy, arms raised, cheering. Neon glow from a window. Wholesome, warm, storybook cartoon, round shapes, hand-drawn line art, soft watercolor wash.",
     },
   ],
 };
